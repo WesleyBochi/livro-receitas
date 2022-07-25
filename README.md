@@ -1,3 +1,7 @@
 ## Read ME
 
-### Aqui instruções para uso do software
+- Strogonoff
+
+- Doce de leite
+
+
